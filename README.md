@@ -1,4 +1,4 @@
-# MAZE AI - Edition AAA 🎮
+# MAZE AI 🎮
 
 ## Vue d'ensemble
 
